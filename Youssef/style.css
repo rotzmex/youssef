@@ -1,0 +1,203 @@
+
+header{
+    background-color: darkslategray;
+}
+
+header h1{
+    text-align: center;
+    font-size: 60px;
+    color: orangered;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between
+    
+}
+nav img{
+    width: 250px;
+}        
+
+
+
+
+
+.nav_links{
+    padding: 10px;
+    
+}
+                                                                                                                                        
+.nav-links ul li{
+    list-style: none;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+                                                                                                           
+.nav-links ul li a{
+    
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 30px;
+    padding: 5px;
+}
+.candys{
+    color: pink;
+    size: 30px;
+    border: 4px solid darkcyan;
+    background-color:black;
+}
+.cake{
+    color:snow ;
+    size: 30px;
+    border: 4px solid blue;
+    background-color:black ;
+}
+.icecream{
+    color: cyan;
+    size:30px ;
+    border: 4px solid orangered;
+    background-color: black;
+}
+.intro_content{
+    display: flex;  
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;               
+}
+
+.intro_img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+
+
+.content{
+    padding-left: 20px;
+    padding-right: 80px;
+    background-color:darkolivegreen;
+   height: 50vh;
+
+}
+.content_cakes{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+.content_icecreams{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+    .content_cakes p{
+        max-width: 200px;
+    }
+.content_icecreams p{
+max-width: 200px;
+}
+.content_Candys p{
+    max-width: 200px;
+}
+
+.content_Candys{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.content_cakes img{
+    height: 200px;
+    width: 200px;
+}
+.content_icecreams img{
+    height: 200px;
+    width: 200px;
+
+}
+.content_Candys img{
+    height: 200px;
+    width: 200px;
+}
+.cakes{
+    text-align: center;
+    background-color: darkslategrey;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.division_cakes{
+    background-color:pink;
+    padding-top: 80px;
+}
+.division_Icecream{
+    background-color:aqua;
+    padding-top: 80px;
+}
+.division_candy{
+    background-color:firebrick;
+    padding-top: 80px;
+}
+.Icecream{
+    background-color:dimgrey;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+.Candys{
+    background-color:darkgreen;
+    padding: 20px;
+    padding-left:20px ;
+    padding-right: 20px;
+}
+.division_Icecream h2{
+    text-align: center;
+    font-size: 52px;
+}
+.division_candy h2{
+    text-align: center;
+    font-size: 52px;
+}
+.division_cakes h2{
+    text-align: center;
+    font-size: 52px;
+}
+.footer h3{
+    text-align: center;
+    font-size: 52px;
+}
+.social_content{
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+footer h3{
+    text-align: center;
+    font-size: 52px;
+}
+
+footer{
+    background-color:darkorange;
+    padding-top: 80px;
+}
+.social_media{
+    display: flex;
+    justify-content:space-between ;
+}
+.social_location a{
+    font-size: 22px;
+
+}
+.social_media i{
+    width: 100px;
+    height: 100px;
+}
